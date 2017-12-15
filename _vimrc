@@ -1,6 +1,8 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
+"jemand hat was geändert
+
 
 " ich aendere hier was
 
