@@ -1,0 +1,2 @@
+# VIM
+my personal VIMRC
