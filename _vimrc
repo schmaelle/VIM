@@ -1,6 +1,8 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
+"jemand hat was geändert
+
 
 " set the runtime path to include Vundle and initialize
 set rtp+=%USERPROFILE%/vimfiles/bundle/Vundle.vim
